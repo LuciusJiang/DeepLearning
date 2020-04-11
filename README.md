@@ -10,4 +10,4 @@
 
 ### clustering
 
-- Topic Modeling with gensim's Latent Dirichlet Allocation(LDA). [[nbviewer](https://nbviewer.jupyter.org/github/ohohgod/element-of-Statistics-ML-Programming/blob/master/Stats%26ML/Dimension_Reduction/Latent_Dirichlet_Allocation.ipynb#Wiki-Example)]
+- Topic Modeling with gensim's Latent Dirichlet Allocation(LDA). [[nbviewer](https://nbviewer.jupyter.org/github/LuciusJiang/DeepLearning/blob/master/Latent_Dirichlet_Allocation.ipynb#Topic-Modeling)]
